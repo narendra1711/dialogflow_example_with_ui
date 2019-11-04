@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-productivity-bot-oehvrm",
+  "private_key_id": "9db30adee407af990f28961233ab73441ff483e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCta3Y9YttuuQui\nk28KJjK70qwVRKZaYW2V+Q+Bs/Ga8Ah6MJk9C44EGFxkgEbwleEpxOL584jXEcrx\nEhgAyuVGHIZhWLcY1kxc5jBnoIvkyh8PdwWeX0XtQbmBXAYbairNu2Zq9dJOuWjp\nToUpsLKr2iWX6ZnKpADLwtXWDmpiIywox6lLE9KU+qv4U01cXig7sq+FkXSPcGeH\nLE5lV8IsE8OqPEVI4xRY2Zn+F96L3763g5QO7tiRQolRroBZez/GjIys05VRhKjG\nW5IJCMYmPQtVKjueg7MVMJElY6mV38zlYsfkvoPHYbDMoQloJ51Tr06Jl0CJu1a8\n7SoV43knAgMBAAECggEAOmXGklNY20c68Ms/CCbmzLLbuem9LxBB68/L9fxXbrpH\n0IXPBGyArUZazokX2mpOQVeIq2zj9rCKK3XRWWr5nAt9AQjz10xKuLnXMP4yPaAG\np5mH7dXdYVDRnAsWD2NH+LGTgo82+8WZ237SfsB+2joCkM5cOI3Tqsn4YjXGgzcQ\n+kJ3Zp8Q9yqBD7CJVZtPb9Dzk7+1FLHzblfZY/oEk6nNSRrzxVh50N401Ln01Tit\njpysuvaaQR8LDZcTXDjZflVrjqSMYWExVwP56Y0hNanOkRucb+sSADwqez7bYV8c\n4d9fNeTj+HntYEPiesHgQzZS/nhf502jJA28rCRoUQKBgQDWCSHM+9g8/kcAgqEn\npozDywhRTVK0OaDpXxBuHfou3Gllh/oQS7nAWW3QqTUDUfQs4X6ECYXEETDHi80V\nTcLWpZfQEPXHMcfi4zVzdnWOT2jqFXDrH5Gqr/XZJJsIf60OpsbGM6yIX23AjEsh\ndi8gY1NMxCIyTqhO0J/viLMS+QKBgQDPa70WcpWGFqHxPjTMMQaFDsq9MTZU6imN\nuG6/290fVpkPpkCGw+ycp/IAcaIlKZfU/CVvJSrX+Yp51Yn9Wle0dPbNhVmB0fPv\nJWGR9osQ7HNoFFOHpcyrkZ7dXKDhZPTUwqMvn+C94CE/7eooIc4LIWW2tdDyQV3q\nT9ewdIPVHwKBgGNA0trSwuDt7ZEQApl3g3lcEpxZJgwLWVI/UkguQJEwhvOdTdn2\ns8m97s2/WaUTgQ669sdV/yD/88XlT5IcgEi3e6Hx63eW3yGYyXWkrjjzHCzJCpcO\nCafEd1ZdwkL7qg3MSwsodU68KhILPN/khVAYn01O+qinjycVWcVjd99JAoGBAKIg\nmoojQlCu/CHu96HraCc06q96+fbhmV1XHeoFVw+ZxsX+s00jc5z3gSdrqsvVeQJX\nnIMF0DlEqkKU8OkBZrB9BDSc2NuqWjtBQsSuqwCtcX+W87uBkzs/9acdMfs7yEtN\nX/RnyWlg+VxZAMAhvEXi8vgfoZTaFyiBBBy+1hUNAoGAK9h9u1wHFPG9g9jK5cjs\nPetY8l7Xou1ood2lJEwsG3vXacfe8FIwztS9tzyDely5o8+kYjmGAbWa1XmYQRUY\nb8dDQW93WqQQdHoRH/8/b/Ta7mAUcFXcIxg6UjvRpF0jtY38wG8p7gNN2i/GwAeE\ner7MvtwG5+0O9KDOmXXeyhQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "agent-productivity-bot-oehvrm@appspot.gserviceaccount.com",
+  "client_id": "112060034293014090096",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agent-productivity-bot-oehvrm%40appspot.gserviceaccount.com"
+}
